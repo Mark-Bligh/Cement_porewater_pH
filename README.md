@@ -1,5 +1,5 @@
 ## Determining cement porewater pH from total alkalinity titration
-Accurate determination of the pH of cement porewater solutions is difficult without highly specialized pH probes and where carbonation on contact with the atmosphere cannot be prevented. Alkalinity titration provides a crude measure of pH, however, when combined with speciation modelling is able to provide an accurate measure, since hydroxide complexes and carbonation products are accounted for. 
+Accurate measurement of the pH of cement porewater solutions is difficult without highly specialized pH probes and where carbonation on contact with the atmosphere cannot be prevented. Alkalinity titration provides a crude measure of pH, however, when combined with speciation modelling is able to provide an accurate measure, since hydroxide complexes and carbonation products are accounted for. 
 
 Total alkalinity in these solutions is primarily due to hydroxide ions with contributions from hydroxide complexes and carbonates. Ion pairs, such as KOH, NaOH, and CaOH<sup>+</sup>, provide the main additional contribution. Mineral hydroxides that can protonate, such as silicates, aluminates, ferric hydroxides, are present in much lower concentrations. Carbonate is present in negligible concentrations prior to porewater extraction since it is controlled by CaCO<sub>3</sub> solubility.
 
